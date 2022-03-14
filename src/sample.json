@@ -1,0 +1,260 @@
+[
+   {
+        "id": "1",
+        "nombre_banda": "Radiohead",
+        "total_albumes": 2,
+        "total_canciones": 3,
+        "albumes": ["In Rainbows", "OK Computer"],
+        "fecha_lanzamiento": "2021-01-01",
+        "canciones":[
+            {
+                "cancion_id": 123,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Weird Fishes",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "10",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 124,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Videotape",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "5",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 125,
+                "nombre_album": "Ok computer",
+                "nombre_tema": "Let down",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "10",
+                    "moneda": "USD"
+                }
+            }
+        ]
+   },
+   {
+        "id": "2",
+        "nombre_banda": "Aliens",
+        "total_albumes": 3,
+        "total_canciones": 4,
+        "albumes": ["In Rainbows", "OK Computer"],
+        "fecha_lanzamiento": "2021-01-01",
+        "canciones":[
+            {
+                "cancion_id": 123,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Weird Fishes",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "6",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 124,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Videotape",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "7",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 125,
+                "nombre_album": "Ok computer",
+                "nombre_tema": "Let down",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "8",
+                    "moneda": "USD"
+                }
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "nombre_banda": "Imagine dragons",
+        "total_albumes": 1,
+        "total_canciones": 3,
+        "albumes": ["In Rainbows", "OK Computer"],
+        "fecha_lanzamiento": "2021-01-01",
+        "canciones":[
+            {
+                "cancion_id": 123,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Weird Fishes",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "6",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 124,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Videotape",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "7",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 125,
+                "nombre_album": "Ok computer",
+                "nombre_tema": "Let down",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "8",
+                    "moneda": "USD"
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "nombre_banda": "Creep",
+        "total_albumes": 2,
+        "total_canciones": 3,
+        "albumes": ["In Rainbows", "OK Computer"],
+        "fecha_lanzamiento": "2021-01-01",
+        "canciones":[
+            {
+                "cancion_id": 123,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Weird Fishes",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "6",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 124,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Videotape",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "7",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 125,
+                "nombre_album": "Ok computer",
+                "nombre_tema": "Let down",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "8",
+                    "moneda": "USD"
+                }
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "nombre_banda": "Nirvana",
+        "total_albumes": 3,
+        "total_canciones": 2,
+        "albumes": ["In Rainbows", "OK Computer"],
+        "fecha_lanzamiento": "2021-01-01",
+        "canciones":[
+            {
+                "cancion_id": 123,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Weird Fishes",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "6",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 124,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Videotape",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "7",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 125,
+                "nombre_album": "Ok computer",
+                "nombre_tema": "Let down",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "8",
+                    "moneda": "USD"
+                }
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "nombre_banda": "Coldplay",
+        "total_albumes": 3,
+        "total_canciones": 5,
+        "albumes": ["In Rainbows", "OK Computer"],
+        "fecha_lanzamiento": "2021-01-01",
+        "canciones":[
+            {
+                "cancion_id": 123,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Weird Fishes",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "6",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 124,
+                "nombre_album": "In Rainbows",
+                "nombre_tema": "Videotape",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "7",
+                    "moneda": "USD"
+                }
+            },
+            {
+                "cancion_id": 125,
+                "nombre_album": "Ok computer",
+                "nombre_tema": "Let down",
+                "preview_url" : "http://cancion.m4a",
+                "fecha_lanzamiento": "2021-01-01",
+                "precio" : {
+                    "valor": "8",
+                    "moneda": "USD"
+                }
+            }
+        ]
+    }
+]
