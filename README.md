@@ -8,5 +8,8 @@
 ## Nodemon, para levantar entorno con:
 ##  npm run dev
 
+## chai para el test
+## npm run test
+
 Con ❤️ por [ehylinOlezjua](https://github.com/ehylin)
 

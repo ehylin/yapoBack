@@ -7,6 +7,7 @@ const bandas = require('../sample.json')
 
 router.get('/', (req, res) => {
     res.json(bandas);
+    res.send(200,bandas);
 });
 
 module.exports = router;
